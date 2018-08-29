@@ -14,7 +14,7 @@ class FirstViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        let str = "Hello"
+        let str = "FirstViewController"
         print(str)
         
     }
